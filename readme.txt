@@ -1,1 +1,1 @@
-負責接收sensor data與地圖
+負責接收sensor data與地圖，目前已經可以支持多人連線
