@@ -1,2 +1,3 @@
-負責接收sensor data與地圖，目前已經可以支持多人連線
+請使用terminal
+負責接收data的server，支援多人連線
 若想傳送圖片或檔案，請先傳入特定字串,eg. pgm, json...
