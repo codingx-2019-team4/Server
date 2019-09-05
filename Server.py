@@ -43,9 +43,6 @@ def threaded(conn):
                   "is fire!!!!!!!!!!!!!!!!!!!!!!!")
             # do anything
 
-        #send success back to client
-        success_msg = "successful"
-        conn.send(success_msg.encode('utf-8'))
     # connection closed
     conn.close()
 
